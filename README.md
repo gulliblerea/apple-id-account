@@ -2,6 +2,17 @@
 
 [小火箭账号与苹果 ID 账号获取指南：iOS 账号、外区 Apple ID、Shadowrocket 成品号的三种获取方式成本对比与适用场景，附共享账号登录六步流程、退出时机、常见报错处理，以及各区独享老号选购要点。账号由系统自动轮换密码，失效自动重置。](https://nbid666.com/products)
 
+
+<p align="center"><b>👇 三个都是按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products" title="各区独享老号现货，带密保、可转区、自动发货"><img src="assets/all_buy.png" alt="各区老号 · 立即购买" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/all_free.png" alt="免费共享 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="全部地区现货，可对比价格"><img src="assets/all_regions.png" alt="全部地区 · 对比价格" height="68"></a>
+</p>
+
 > 最近更新：2026-11-10
 
 
